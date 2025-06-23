@@ -7,9 +7,9 @@
 
 Aplikasi web mini modern yang dibangun dengan **CodeIgniter 4** yang menyediakan sistem manajemen artikel lengkap dengan feedback pengguna dan dashboard admin yang elegan.
 
-## 🌟 Demo Live
+## 🌟 Demo Video
 
-**🔗 [Live Demo](https://youtu.be/0bK3Qsmon40)**
+**🔗 [Demo Video](https://youtu.be/0bK3Qsmon40)**
 
 ---
 
